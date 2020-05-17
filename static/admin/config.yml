@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Brandon-creator/brandons-blog
+  repo: Brandon-creator/personal-blog
 
 media_folder: static/assets
 public_folder: assets
